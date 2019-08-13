@@ -10,8 +10,8 @@ GaleSun的博客
 
 ### 最新
 
+* [一点小想法](http://www.galesun.com/articles/2019/08/12/1565617895516.html)
 * [基于Jenkins+Gradle+python的Android打包平台的实现](http://www.galesun.com/articles/2019/08/11/1565536090853.html)
-* [世界，你好！](http://www.galesun.com/hello-solo)
 
 
 
