@@ -10,6 +10,7 @@ GaleSun的博客
 
 ### 最新
 
+* [Test 需要密码查看](http://www.galesun.com/articles/2019/09/06/1567757465976.html)
 * [一点小想法](http://www.galesun.com/articles/2019/08/12/1565617895516.html)
 * [基于Jenkins+Gradle+python的Android打包平台的实现](http://www.galesun.com/articles/2019/08/11/1565536090853.html)
 
