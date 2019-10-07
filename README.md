@@ -5,7 +5,7 @@ GaleSun的博客
 <h4 align="center">中年码畜的自救之路</h4>
 <p align="center"><a title="GaleSun的博客" target="_blank" href="https://github.com/Guangdinghou/solo-blog"><img src="https://img.shields.io/github/last-commit/Guangdinghou/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Guangdinghou/solo-blog"><img src="https://img.shields.io/github/repo-size/Guangdinghou/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/Guangdinghou/solo-blog.svg"></a></p>
 
 ### 最新
